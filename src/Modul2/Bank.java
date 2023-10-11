@@ -4,7 +4,7 @@ public class Bank {
     double saldo;
     double no_rekening;
 
-    Bank(double saldo, double no_rekening){
+    public Bank(double saldo, double no_rekening){
         this.saldo = saldo;
         this.no_rekening = no_rekening;
     }
