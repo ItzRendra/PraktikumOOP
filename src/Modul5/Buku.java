@@ -5,7 +5,12 @@ public class Buku {
     int cetakanKe;
     double hargaJual;
 
-    // public Buku1(String pengarang = raka, String judulBuku = "gg", int cetakanKe = 1, double hargaJual =1500.00){
-    //     System.out.println(pengarang,judulBuku,cetakanKe,hargaJual);
-    // }
+    public Buku(String pengarang, String judulBuku, int cetakanKe, double hargaJual){
+        this.pengarang = pengarang;
+        this.judulBuku = judulBuku;
+        this.cetakanKe = cetakanKe;
+        this.hargaJual = hargaJual;
+
+        System.out.println(pengarang + "\n" + judulBuku + cetakanKe + hargaJual);
+    }
 }

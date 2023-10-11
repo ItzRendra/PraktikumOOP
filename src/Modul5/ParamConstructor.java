@@ -1,8 +1,8 @@
 package Modul5;
 
 public class ParamConstructor {
-    String nama, nim;
-    int semester;
+    String nama = "raka", nim = "L200224246";
+    int semester = 3;
 
     public ParamConstructor(String nama, String nim, int semester){
         // this.nama = nama;

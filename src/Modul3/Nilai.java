@@ -29,7 +29,7 @@ int nilaiUTS = 80, nilaiUAS = 84, nilaiTugas = 70;
 
     void nilaiTotal(double nilaiTotal) {
         nilaiTotal = (nilaiUTS+nilaiUAS+nilaiTugas)/3;
-        System.out.println(nilaiTotal);
+        System.out.println("Nilai Total : " + nilaiTotal);
     }
 
 
