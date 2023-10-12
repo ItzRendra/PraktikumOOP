@@ -10,8 +10,8 @@ package Modul4;
  * @author Personal
  */
 public class PrivateModifier {
-    private String nama;
-    private int umur;
+    // private String nama;
+    // private int umur;
     
     public void printInfo(){
         System.out.println("Private Modifier" );//+ "\nNama :  " + nama + "\nUmur : " + umur);
