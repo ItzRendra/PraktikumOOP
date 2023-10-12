@@ -15,8 +15,8 @@ public class Main {
     public static void main(String[] args) {
         PrivateModifier p = new PrivateModifier();
         p.printInfo();
-        p.nama = "raka";
-        System.out.println(p.nama);
+        // p.nama = "raka";
+        // System.out.println(p.nama);
         // DefaultModifier dm = new DefaultModifier();
         // dm.kurang();
     }
