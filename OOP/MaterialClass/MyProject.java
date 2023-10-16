@@ -2,17 +2,17 @@ package MaterialClass;
 
 public class MyProject {
     double width, height;
-    //rectangle
+    // MyProject(double width, double height){
+    //     this.height = height;
+    //     this.width = width;
+    // }
+
     void Luas(double width, double height) {
-        System.out.println(
-        "Luasnya Adalah : " + (width * height)
-        );
+        System.out.println("Luasnya Adalah : " + (width * height));
     }
 
     void Keliling(double width, double height) {
-        System.out.println(
-            "Kelilingnya Adalah : " + (2*(width + height))
-        );
+        System.out.println("Kelilingnya Adalah : " + (2*(width + height)));
     }
 
     public static void main(String[] args) {
