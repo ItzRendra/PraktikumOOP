@@ -4,8 +4,8 @@ import Modul4.DefaultModifier;
 
 public class DefaultAccess {
     public static void main(String[] args) {
-    // DefaultModifier dm = new DefaultModifier();
-    // dm.jumlah();
+    DefaultModifier dm = new DefaultModifier();
+    dm.jumlah();
     }
     
 }

@@ -1,9 +1,5 @@
 package Modul4;
-// import Modul4.PrivateModifier;
-/**
- *
- * @author Personal
- */
+//Main untuk Modul 4
 public class Main {
     // private String nama;
     // private int umur;
@@ -13,12 +9,27 @@ public class Main {
     //     System.out.println(this.nama);
 
     public static void main(String[] args) {
-        PrivateModifier p = new PrivateModifier();
-        p.printInfo();
+        // PrivateModifier p = new PrivateModifier();
+        // p.printInfo();
         // p.nama = "raka";
         // System.out.println(p.nama);
+
+
         // DefaultModifier dm = new DefaultModifier();
         // dm.kurang();
+
+
+        // ProtectedModifier pm =  new ProtectedModifier();
+        // pm.sendMassage();
+        // pm.printInfo();
+
+
+        PublicModifier pp = new PublicModifier();
+        pp.kali();
+        pp.tambah();
+        pp.bagi();
+        pp.kurang();
+        pp.rata_rata();
     }
  
 }
