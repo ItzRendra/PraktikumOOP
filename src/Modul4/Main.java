@@ -9,20 +9,19 @@ public class Main {
     //     System.out.println(this.nama);
 
     public static void main(String[] args) {
+        
         // PrivateModifier p = new PrivateModifier();
         // p.printInfo();
         // p.nama = "raka";
         // System.out.println(p.nama);
 
-
         // DefaultModifier dm = new DefaultModifier();
         // dm.kurang();
-
+        // dm.jumlah();
 
         // ProtectedModifier pm =  new ProtectedModifier();
         // pm.sendMassage();
         // pm.printInfo();
-
 
         PublicModifier pp = new PublicModifier();
         pp.kali();
@@ -30,6 +29,7 @@ public class Main {
         pp.bagi();
         pp.kurang();
         pp.rata_rata();
+
     }
  
 }
