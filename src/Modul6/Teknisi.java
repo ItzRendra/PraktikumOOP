@@ -6,6 +6,7 @@ public class Teknisi extends Pegawai{
         Pegawai p =  new Pegawai();
         System.out.println(
             gajiPerbulan = p.gajiPokok + lemburPerjam
+
         );
     }
 }
