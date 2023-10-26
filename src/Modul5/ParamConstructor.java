@@ -11,7 +11,7 @@ public class ParamConstructor {
         System.out.println("Nama : " + nama + "\nNIM : " + nim + "\nSemester : " + semester);
     }
 
-    // public void info(){
-    //     System.out.println("Nama : " +  nama + "\nNIM : " + nim + "\nSEMESTER : " + semester);
-    // }
+    public void info(){
+        System.out.println("Nama : " +  nama + "\nNIM : " + nim + "\nSEMESTER : " + semester);
+    }
 }
