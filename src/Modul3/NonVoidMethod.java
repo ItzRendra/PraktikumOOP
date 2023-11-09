@@ -12,6 +12,10 @@ public class NonVoidMethod {
         return nim;
     }
 
+    public int setNim(int nim){
+        return this.nim = nim;
+    }
+
     void info(){
         System.out.println(
             "Nama : " + nama + "\n" +

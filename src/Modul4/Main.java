@@ -19,16 +19,16 @@ public class Main {
         // dm.kurang();
         // dm.jumlah();
 
-        // ProtectedModifier pm =  new ProtectedModifier();
-        // pm.sendMassage();
-        // pm.printInfo();
+        ProtectedModifier pm =  new ProtectedModifier();
+        pm.sendMassage();
+        pm.printInfo();
 
-        PublicModifier pp = new PublicModifier();
-        pp.kali();
-        pp.tambah();
-        pp.bagi();
-        pp.kurang();
-        pp.rata_rata();
+        // PublicModifier pp = new PublicModifier();
+        // pp.kali();
+        // pp.tambah();
+        // pp.bagi();
+        // pp.kurang();
+        // pp.rata_rata();
 
     }
  
