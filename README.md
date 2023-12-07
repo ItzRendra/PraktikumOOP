@@ -16,3 +16,4 @@
 # *[Modul8](https://github.com/ItzRendra/PraktikumOOP/tree/main/src/Modul8)*
 # *[Modul9](https://github.com/ItzRendra/PraktikumOOP/tree/main/src/Modul9)*
 # *[Modul10](https://github.com/ItzRendra/PraktikumOOP/tree/main/src/Modul10)*
+# *[Modul11](https://github.com/ItzRendra/PraktikumOOP/tree/main/src/Modul11)*

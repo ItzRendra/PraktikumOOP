@@ -1,7 +1,6 @@
 package Modul9.Ruang;
 
 public abstract class BangunRuang {
-    
     public abstract double volume(){}
     public abstract double luas(){}
 

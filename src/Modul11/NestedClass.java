@@ -15,7 +15,7 @@ public class NestedClass {
         }
         public void printOuter(){
         NestedClass o = new NestedClass();
-        o.printNama();
+        System.out.println("print dari Static"); o.printNama();
         }
     }
 
