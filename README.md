@@ -5,7 +5,12 @@
 - Nama : Raka Rendra Fayanto
 - NIM : L200224246
 
-	Repository for OOP Practice and documentation
+### Repository for OOP Practice and documentation
+
+#### get start with
+```
+git clone https://github.com/ItzRendra/PraktikumOOP.git
+```
 
 # *[Modul2](https://github.com/ItzRendra/PraktikumOOP/tree/main/src/Modul2)*
 # *[Modul3](https://github.com/ItzRendra/PraktikumOOP/tree/main/src/Modul3)*
@@ -17,3 +22,4 @@
 # *[Modul9](https://github.com/ItzRendra/PraktikumOOP/tree/main/src/Modul9)*
 # *[Modul10](https://github.com/ItzRendra/PraktikumOOP/tree/main/src/Modul10)*
 # *[Modul11](https://github.com/ItzRendra/PraktikumOOP/tree/main/src/Modul11)*
+# *[Modul12](https://github.com/ItzRendra/PraktikumOOP/tree/main/src/Modul12)*
