@@ -1,26 +1,19 @@
-import javax.swing.JLabel;
+package Modul12;
 import javax.swing.JPanel;
+import javax.swing.JLabel;
 import javax.swing.JTextField;
-import javax.swing.JPasswordField;
-
 public class DemoTextField {
     public static void main(String[] args) {
-        Utama u = new Utama();  // Create an instance of the Utama class (assuming it's a JFrame)
-        // Create JLabels for name and password
-        JLabel name = new JLabel("Name: ");
-        JLabel password = new JLabel("Password: ");
-        // Create JTextFields for user input
-        JTextField inputName = new JTextField(15);
-        JPasswordField inputPw = new JPasswordField(15);
-        // Create a JPanel to hold the JLabels and JTextFields
+        Utama u = new Utama();
+        JLabel nama = new JLabel("Nama : ");
+        JLabel password = new JLabel("Password : ");
+        JTextField inputNama = new JTextField(15);
+        JTextField inputpsw = new JTextField(15);
         JPanel panel = new JPanel();
-        // Add components to the JPanel
-        panel.add(name);
-        panel.add(inputName);
+        panel.add(nama);
+        panel.add(inputNama);
         panel.add(password);
-        panel.add(inputPw);
-        // Add the JPanel to the JFrame (Utama)
+        panel.add(inputpsw);
         u.add(panel);
     }
 }
-
