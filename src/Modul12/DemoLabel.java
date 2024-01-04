@@ -7,10 +7,10 @@ import javax.swing.SwingConstants;
 public class DemoLabel {
     public static void main(String[] args) {
         Utama u = new Utama();
-        u.setSize(500,800);
+        u.setSize(700,800);
         URL img = FrameB.class.getResource("kuceng.jpeg");
         ImageIcon ikon = new ImageIcon(img);
-        JLabel label = new JLabel("Label", ikon, SwingConstants.CENTER);
+        JLabel label = new JLabel("kuceng", ikon, SwingConstants.CENTER);
         JPanel panel = new JPanel();
         panel.add(label);
         u.add(panel);

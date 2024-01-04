@@ -6,15 +6,15 @@ import javax.swing.JPanel;
 public class FrameB extends javax.swing.JFrame {
     public FrameB(){
         super("Frame and Button");
-        setSize(500, 500);
+        setSize(600, 800);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
     }
     public static void main(String[] args) {
         FrameB fb = new FrameB();
         JPanel panel = new JPanel();
-        URL img = FrameB.class.getResource("meganyachan.jpeg");
-        JButton jbtOK = new JButton ("SO BAKSO");
+        URL img = FrameB.class.getResource("kuceng.jpeg");
+        JButton jbtOK = new JButton ("koceng");
         JButton jbtImg = new JButton(new ImageIcon(img));
         panel.add(jbtOK);
         panel.add(jbtImg);
