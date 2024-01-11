@@ -23,3 +23,5 @@ git clone https://github.com/ItzRendra/PraktikumOOP.git
 # *[Modul10](https://github.com/ItzRendra/PraktikumOOP/tree/main/src/Modul10)*
 # *[Modul11](https://github.com/ItzRendra/PraktikumOOP/tree/main/src/Modul11)*
 # *[Modul12](https://github.com/ItzRendra/PraktikumOOP/tree/main/src/Modul12)*
+# *[UAS PRAKTIKUM](https://github.com/ItzRendra/PraktikumOOP/tree/main/src/Uas)*
+
